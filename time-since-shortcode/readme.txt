@@ -1,5 +1,5 @@
 === Time Since Shortcode ===
-Contributors: <a href="http://joepeterson.work">Joe Peterson</a>
+Contributors: Joe Peterson - http://joepeterson.work
 Donate link:
 Tags:
 License: GPLv3
